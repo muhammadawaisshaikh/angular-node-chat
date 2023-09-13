@@ -1,6 +1,9 @@
-# Workshop6
+# Chat App - Angular, NodeJS, Socket.io
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+This project was built with ❤️ using Angular, NodeJS, Socket.io and generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+
+![Chat app with no messages](https://github.com/muhammadawaisshaikh/angular-node-chat/assets/24633059/541ed99c-5414-4045-bead-a6aeef6069b8)
+![chat app with messages and scroll](https://github.com/muhammadawaisshaikh/angular-node-chat/assets/24633059/4dc91e96-5fdf-4cae-a00a-3b1b83b17117)
 
 ## Development server
 
